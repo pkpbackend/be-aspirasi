@@ -1,0 +1,5 @@
+export const STATUS_VERMIN = {
+  SESUAI: 1,
+  TIDAK_LENGKAP: 0,
+  BELUM_DITENTUKAN: null,
+}
